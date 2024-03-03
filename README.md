@@ -1,4 +1,4 @@
-# linear-sort
+# constant-sort
 
 Sort up to three digits in constant time aka O(1)
 
